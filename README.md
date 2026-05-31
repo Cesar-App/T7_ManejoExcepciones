@@ -1,10 +1,8 @@
-# Aplicación de Validación de Estudiantes en Windows Forms
+# Proyecto de Validacion de Estudiantes
 
 ## Descripción:
 
-Este proyecto consiste en una aplicación de escritorio desarrollada en C# que permite registrar información básica de un estudiante con validación completa de datos mediante manejo robusto de excepciones. La aplicación proporciona una interfaz intuitiva para capturar información del usuario y valida cada campo antes de procesarlo.
-
----
+Aqui se estuvo haciendo un programa sencilo de validacion de campos con excepciones como el campo de el correo electronico y de la edad para que cada uno de esos campos sean validos y no haya un error por insercion de datos inadecuada
 
 ## Tecnologías Utilizadas:
 
@@ -12,40 +10,26 @@ Este proyecto consiste en una aplicación de escritorio desarrollada en C# que p
 * **Herramientas / Framework:** Windows Forms (.NET Framework 4.7.2)
 * **Entorno o IDE:** Visual Studio Community 2026.
 
----
+## Imágenes de la ejecución del Sistema:
 
-## Imágenes de la ejecución del proyecto:
-
-**Interfaz Principal de Registro**
+**Pantalla Principal**
 Aqui se muestra el formulario.
-![Inicio](https://github.com/Cesar-App/T7_ManejoExcepciones/Imagenes%20de%20ejecucion/Inicio.png
+![Inicio]([https://github.com/Cesar-App/T7_ManejoExcepciones/Imagenes%20de%20ejecucion/Inicio.png](https://github.com/Cesar-App/T7_ManejoExcepciones/blob/main/Imagenes%20de%20ejecucion/Inicio.png)
 )
 
----
-
-**2. Validación de Nombre Completo**
-Se valida que el nombre no contenga números y tenga mínimo 3 caracteres.
-![Inicio](https://github.com/Cesar-App/T7_ManejoExcepciones/Imagenes%20de%20ejecucion/Inicio.png
+**Validación de Correo**
+Se valida que el correo este con formato adecuado.
+![Validacion Correo]([https://github.com/Cesar-App/T7_ManejoExcepciones/Imagenes%20de%20ejecucion/Inicio.png](https://github.com/Cesar-App/T7_ManejoExcepciones/blob/main/Imagenes%20de%20ejecucion/Validacion%20de%20correo.png)
 )
 
----
-
-**3. Validación de Edad**
-Se verifica que la edad sea un número entero en rango válido (1-120 años).
-![Validacion Edad](https://github.com/kevin-vasquez-dev-5to-d2/Manejo-de-Excepciones-Winforms-y-Consola/blob/ced0edc0df3fe90663e3ecd36c68b53b67190778/Imagenes%20proyectos/Captura%20de%20pantalla%202026-05-31%20133021.png
+**Validación de Edad**
+Se verifica que la edad sea un número entero.
+![Validacion Edad]([https://github.com/kevin-vasquez-dev-5to-d2/Manejo-de-Excepciones-Winforms-y-Consola/blob/ced0edc0df3fe90663e3ecd36c68b53b67190778/Imagenes%20proyectos/Captura%20de%20pantalla%202026-05-31%20133021.png](https://github.com/Cesar-App/T7_ManejoExcepciones/blob/main/Imagenes%20de%20ejecucion/Validacion%20de%20edad.png)
 )
 
----
-
-**4. Validación de Correo Electrónico**
-Se valida el formato del correo electrónico mediante expresión regular.
-![Validacion Correo](https://github.com/kevin-vasquez-dev-5to-d2/Manejo-de-Excepciones-Winforms-y-Consola/blob/ced0edc0df3fe90663e3ecd36c68b53b67190778/Imagenes%20proyectos/Captura%20de%20pantalla%202026-05-31%20133127.png)
-
----
-
-**5. Registro Exitoso**
-Se muestra el mensaje de éxito después de completar todas las validaciones.
-![Registro Exitoso](https://github.com/kevin-vasquez-dev-5to-d2/Manejo-de-Excepciones-Winforms-y-Consola/blob/ced0edc0df3fe90663e3ecd36c68b53b67190778/Imagenes%20proyectos/Captura%20de%20pantalla%202026-05-31%20133225.png)
+**Datos Guardados**
+Se muestra el mensaje de correspondiente cuando se inserta de manera correcta.
+![Registro Exitoso]([https://github.com/kevin-vasquez-dev-5to-d2/Manejo-de-Excepciones-Winforms-y-Consola/blob/ced0edc0df3fe90663e3ecd36c68b53b67190778/Imagenes%20proyectos/Captura%20de%20pantalla%202026-05-31%20133225.png](https://github.com/Cesar-App/T7_ManejoExcepciones/blob/main/Imagenes%20de%20ejecucion/Datos%20guardados.png))
 
 ## Uso o Ejecución:
 
