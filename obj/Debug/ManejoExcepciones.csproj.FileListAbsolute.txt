@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\ManejoExcepciones\bin\Debug\ManejoExcepciones.exe.config
+C:\Users\ADMIN\source\repos\ManejoExcepciones\bin\Debug\ManejoExcepciones.exe
+C:\Users\ADMIN\source\repos\ManejoExcepciones\bin\Debug\ManejoExcepciones.pdb
+C:\Users\ADMIN\source\repos\ManejoExcepciones\obj\Debug\ManejoExcepciones.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ManejoExcepciones\obj\Debug\ManejoExcepciones.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\ManejoExcepciones\obj\Debug\ManejoExcepciones.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\ManejoExcepciones\obj\Debug\ManejoExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ManejoExcepciones\obj\Debug\ManejoExcepciones.exe
+C:\Users\ADMIN\source\repos\ManejoExcepciones\obj\Debug\ManejoExcepciones.pdb
+C:\Users\ADMIN\source\repos\ManejoExcepciones\obj\Debug\ManejoExcepciones.Form1.resources
