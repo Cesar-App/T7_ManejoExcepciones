@@ -14,7 +14,7 @@ Aqui se estuvo haciendo un programa sencilo de validacion de campos con excepcio
 
 **Pantalla Principal**
 Aqui se muestra el formulario.
-![Inicio]([https://github.com/Cesar-App/T7_ManejoExcepciones/Imagenes%20de%20ejecucion/Inicio.png](https://github.com/Cesar-App/T7_ManejoExcepciones/blob/main/Imagenes%20de%20ejecucion/Inicio.png)
+![Inicio](https://github.com/Cesar-App/T7_ManejoExcepciones/blob/main/Imagenes%20de%20ejecucion/Inicio.png
 )
 
 **Validación de Correo**
