@@ -19,17 +19,17 @@ Aqui se muestra el formulario.
 
 **Validación de Correo**
 Se valida que el correo este con formato adecuado.
-![Validacion Correo]([https://github.com/Cesar-App/T7_ManejoExcepciones/Imagenes%20de%20ejecucion/Inicio.png](https://github.com/Cesar-App/T7_ManejoExcepciones/blob/main/Imagenes%20de%20ejecucion/Validacion%20de%20correo.png)
+![Validacion Correo](https://github.com/Cesar-App/T7_ManejoExcepciones/blob/main/Imagenes%20de%20ejecucion/Validacion%20de%20correo.png
 )
 
 **Validación de Edad**
 Se verifica que la edad sea un número entero.
-![Validacion Edad]([https://github.com/kevin-vasquez-dev-5to-d2/Manejo-de-Excepciones-Winforms-y-Consola/blob/ced0edc0df3fe90663e3ecd36c68b53b67190778/Imagenes%20proyectos/Captura%20de%20pantalla%202026-05-31%20133021.png](https://github.com/Cesar-App/T7_ManejoExcepciones/blob/main/Imagenes%20de%20ejecucion/Validacion%20de%20edad.png)
+![Validacion Edad](https://github.com/Cesar-App/T7_ManejoExcepciones/blob/main/Imagenes%20de%20ejecucion/Validacion%20de%20edad.png
 )
 
 **Datos Guardados**
 Se muestra el mensaje de correspondiente cuando se inserta de manera correcta.
-![Registro Exitoso]([https://github.com/kevin-vasquez-dev-5to-d2/Manejo-de-Excepciones-Winforms-y-Consola/blob/ced0edc0df3fe90663e3ecd36c68b53b67190778/Imagenes%20proyectos/Captura%20de%20pantalla%202026-05-31%20133225.png](https://github.com/Cesar-App/T7_ManejoExcepciones/blob/main/Imagenes%20de%20ejecucion/Datos%20guardados.png))
+![Registro Exitoso](https://github.com/Cesar-App/T7_ManejoExcepciones/blob/main/Imagenes%20de%20ejecucion/Datos%20guardados.png)
 
 ## Uso o Ejecución:
 
